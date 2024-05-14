@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there :wave:
 
-<!--
-**JasonNero/jasonnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Jason Schühlein**, and I'm a researcher and software engineer from Germany.  
+I've recently graduated as M.Eng. with a focus on deep learning and computer graphics.  
+Currently I work at [HdM Stuttgart](https://www.hdm-stuttgart.de), researching **human motion generation for computer animation**.
 
-Here are some ideas to get you started:
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills 📜
+
+### Programming 
+
+- Python
+- Qt/PySide
+- Rust (beginner) 
+- C++ (beginner)
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | C1/C2                                                                     |
+| German        | Native language                                                           |
+| Japanese      | I can differentiate hiragana and katakana, does that count?               |
+
+## What I'm currently learning 📚
+
+- Diffusion Transformer
+- Rust
+
+</details>
