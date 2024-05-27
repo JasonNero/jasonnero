@@ -26,7 +26,7 @@ Currently I work at [HdM Stuttgart](https://www.hdm-stuttgart.de), researching *
 | German        | Native language                                                           |
 | Japanese      | I can differentiate hiragana and katakana, does that count?               |
 
-## What I'm currently learning 📚
+### What I'm currently learning 📚
 
 - Diffusion Transformer
 - Rust
